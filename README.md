@@ -1,5 +1,5 @@
 # michigan-climate-data-public
-This is the public version of a data analysis project I did on my own in Fall 2023. I cleaned it (slightly) up recently in a separate repository (this one) to display publicly. Tableau visualizations can be found at clstith.github.io/michigan-climate.
+This is the public version of a data analysis project I did on my own in Fall 2023. I cleaned it (slightly) up recently in a separate repository (this one) to display publicly. Tableau visualizations can be found on my [website](https://clstith.github.io/michigan-climate/).
 
 Here are some details:  
 * `api_info` is where you should store your NOAA api token
