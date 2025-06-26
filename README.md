@@ -7,4 +7,4 @@ Here are some details:
 * `weather.ipynb` is my initial data mapping attempt 
 * `WeatherMap_MI.ipynb` is my final (but still messy) Jupyter notebook that outputs the cleanest maps 
 
-![alt text](https://github.com/clstith/michigan-climate-data-public/blob/cfff60bbeaae3dcf64126099756517f6f1391f36/example-images/MI_rainfall_county_Sep_2009.png)
+![Map of rainfall in MI in the month of Sep 2009](https://github.com/clstith/michigan-climate-data-public/blob/cfff60bbeaae3dcf64126099756517f6f1391f36/example-images/MI_rainfall_county_Sep_2009.png)
