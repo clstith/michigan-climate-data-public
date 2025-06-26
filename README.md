@@ -6,3 +6,5 @@ Here are some details:
 * `MI_info` stores a dict mapping NOAA stationids to FIPS codes
 * `weather.ipynb` is my initial data mapping attempt 
 * `WeatherMap_MI.ipynb` is my final (but still messy) Jupyter notebook that outputs the cleanest maps 
+
+![alt text](https://github.com/clstith/michigan-climate-data-public/blob/main/MI_rainfall_county_Sep_2009.jpg?raw=true)
